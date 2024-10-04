@@ -170,3 +170,10 @@ https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project/code
 https://www.kaggle.com/datasets/meliodassourav/traffic-violation-dataset-v3
 
 https://chatgpt.com/
+
+
+
+
+
+
+- **LINK OF THE PROJECT - https://drive.google.com/drive/folders/1OJu5bucJfkscBR8Dy7kEd5w8Wkh5ZCBT?usp=drive_link**
