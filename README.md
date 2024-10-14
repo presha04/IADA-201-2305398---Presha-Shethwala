@@ -176,4 +176,4 @@ https://chatgpt.com/
 
 
 
-- *LINK OF THE DATA - https://drive.google.com/drive/folders/1OJu5bucJfkscBR8Dy7kEd5w8Wkh5ZCBT?usp=drive_link*
+- *LINK OF THE DATA - https://drive.google.com/drive/u/0/folders/1JkO9M4TyA48eFnUrEHBYfyktMRpZ47d5*
